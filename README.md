@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ARITRA2004/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 ## Hash Table
@@ -23,6 +24,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ARITRA2004/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0441-arranging-coins](https://github.com/ARITRA2004/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ARITRA2004/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
