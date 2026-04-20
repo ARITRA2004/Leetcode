@@ -11,13 +11,13 @@ public:
                 break;
             }
         }
-        for(int i=n-1;i<=0;i--){
+        for(int i=n-1;i>=0;i--){
             if(colors[i]^colors[0]){
                 right = i;
                 break;
             }
         }
 
-        return max(n-left-1,right);
+        return max(n-1-left,right);
     }
 };
