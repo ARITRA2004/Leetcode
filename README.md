@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ARITRA2004/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 ## String
@@ -39,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARITRA2004/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
