@@ -68,4 +68,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ARITRA2004/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ARITRA2004/Leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 <!---LeetCode Topics End-->
