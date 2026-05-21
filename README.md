@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/ARITRA2004/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0396-rotate-function](https://github.com/ARITRA2004/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0229-majority-element-ii](https://github.com/ARITRA2004/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/ARITRA2004/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0396-rotate-function](https://github.com/ARITRA2004/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/ARITRA2004/Leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -130,5 +133,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->
