@@ -15,7 +15,6 @@ public:
                     mpp.erase(req);
                 }
             }else{
-                cout << mpp[ele] << endl;
                 mpp[ele]++;
             }
         }
