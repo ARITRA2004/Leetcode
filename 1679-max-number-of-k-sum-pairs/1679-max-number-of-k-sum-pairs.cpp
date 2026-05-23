@@ -2,25 +2,24 @@ class Solution {
 public:
     int maxOperations(vector<int>& nums, int k) {
         int n = nums.size();
-        int right = n-1;
-        int left = 0;
-
         int operations = 0;
-        sort(nums.begin(),nums.end());
 
-        while(left<right){
-            if(nums[left] + nums[right] > k){
-                right--;
-            }
-            else if(nums[left] + nums[right] < k){
-                left++;
-            }
-            else{
+        unordered_map<int,int>mpp;
+        
+        for(int ele:nums){
+            int req = k-ele;
+            if(mpp.find(req)!=mpp.end()){
                 operations++;
-                left++;
-                right--;
+                mpp[req]--;
+                if(mpp[req] == 0){
+                    mpp.erase(req);
+                }
+            }else{
+                cout << mpp[ele] << endl;
+                mpp[ele]++;
             }
         }
+
         return operations;
     }
 };
