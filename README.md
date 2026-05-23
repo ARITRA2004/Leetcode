@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1306-jump-game-iii](https://github.com/ARITRA2004/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ARITRA2004/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ARITRA2004/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ARITRA2004/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/ARITRA2004/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ARITRA2004/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Simulation
@@ -125,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ARITRA2004/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
