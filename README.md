@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ARITRA2004/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARITRA2004/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARITRA2004/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ARITRA2004/Leetcode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ARITRA2004/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARITRA2004/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
