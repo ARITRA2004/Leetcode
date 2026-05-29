@@ -1,6 +1,21 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        return floor(sqrt((double)2*n+0.25)-0.5);
+        long long left = 0, right = n;
+        long long ans = 0;
+
+        while (left <= right) {
+            long long mid = left + (right - left) / 2;
+            long long sum = mid * (mid + 1) / 2;
+
+            if (sum <= n) {
+                ans = mid;
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+
+        return ans;
     }
 };
