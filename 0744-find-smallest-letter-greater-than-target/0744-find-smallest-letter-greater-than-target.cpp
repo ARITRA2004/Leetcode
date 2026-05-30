@@ -1,23 +1,28 @@
 class Solution {
 public:
 
-    char nextGreatestLetter(vector<char>& letters, char target) {
-        int n = letters.size();
+    int upper_bound(vector<char> l, int t){
         int low = 0;
-        int high = n - 1;
-        int index = 0;
+        int high = l.size()-1;
         int ans = 0;
 
-        while (low <= high) {
-            int mid = (low + high) / 2;
+        while(low<=high){
+            int mid = (low + high)/2;
 
-            if (letters[mid] > target) {
+            if(l[mid] > t){
                 ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
+                high = mid-1;
+            }
+            else{
+                low = mid+1;
             }
         }
-        return letters[ans];  
+        if(ans == 0) return 0;
+        return ans;
+    }
+
+    char nextGreatestLetter(vector<char>& letters, char target) {
+        int index = upper_bound(letters,target);
+        return letters[index];
     }
 };
