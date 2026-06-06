@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2560-house-robber-iv](https://github.com/ARITRA2004/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/ARITRA2004/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ARITRA2004/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARITRA2004/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/ARITRA2004/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
