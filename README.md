@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ARITRA2004/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARITRA2004/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0278-first-bad-version](https://github.com/ARITRA2004/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ARITRA2004/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0441-arranging-coins](https://github.com/ARITRA2004/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -254,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ARITRA2004/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/ARITRA2004/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
