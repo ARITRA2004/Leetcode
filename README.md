@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/ARITRA2004/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/ARITRA2004/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ARITRA2004/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/ARITRA2004/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/ARITRA2004/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ARITRA2004/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ARITRA2004/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
