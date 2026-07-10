@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARITRA2004/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARITRA2004/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ARITRA2004/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ARITRA2004/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/ARITRA2004/Leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARITRA2004/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ARITRA2004/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ARITRA2004/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ARITRA2004/Leetcode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3853-merge-close-characters](https://github.com/ARITRA2004/Leetcode/tree/main/3853-merge-close-characters/) | Medium |
 ## String
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2560-house-robber-iv](https://github.com/ARITRA2004/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ARITRA2004/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ARITRA2004/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ARITRA2004/Leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ARITRA2004/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ARITRA2004/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ARITRA2004/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ARITRA2004/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ARITRA2004/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
