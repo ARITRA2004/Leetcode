@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ARITRA2004/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ARITRA2004/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2560-house-robber-iv](https://github.com/ARITRA2004/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ARITRA2004/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0441-arranging-coins](https://github.com/ARITRA2004/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [2439-minimize-maximum-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2560-house-robber-iv](https://github.com/ARITRA2004/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ARITRA2004/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARITRA2004/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ARITRA2004/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2439-minimize-maximum-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2560-house-robber-iv](https://github.com/ARITRA2004/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ARITRA2004/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -256,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0396-rotate-function](https://github.com/ARITRA2004/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ARITRA2004/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [2439-minimize-maximum-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2560-house-robber-iv](https://github.com/ARITRA2004/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARITRA2004/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -265,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ARITRA2004/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2439-minimize-maximum-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ARITRA2004/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Trie
