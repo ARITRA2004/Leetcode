@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/ARITRA2004/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/ARITRA2004/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/ARITRA2004/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0796-rotate-string](https://github.com/ARITRA2004/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ARITRA2004/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARITRA2004/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ARITRA2004/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ARITRA2004/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0396-rotate-function](https://github.com/ARITRA2004/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ARITRA2004/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2560-house-robber-iv](https://github.com/ARITRA2004/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
