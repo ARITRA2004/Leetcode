@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ARITRA2004/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARITRA2004/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ARITRA2004/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ARITRA2004/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ARITRA2004/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARITRA2004/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/ARITRA2004/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
