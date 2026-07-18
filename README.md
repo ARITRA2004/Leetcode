@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/ARITRA2004/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ARITRA2004/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ARITRA2004/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ARITRA2004/Leetcode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ARITRA2004/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ARITRA2004/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ARITRA2004/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARITRA2004/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ARITRA2004/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ARITRA2004/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ARITRA2004/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
