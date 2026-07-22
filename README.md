@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ARITRA2004/Leetcode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ARITRA2004/Leetcode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ARITRA2004/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARITRA2004/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/ARITRA2004/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ARITRA2004/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ARITRA2004/Leetcode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ARITRA2004/Leetcode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ARITRA2004/Leetcode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -365,4 +367,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/ARITRA2004/Leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/ARITRA2004/Leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/ARITRA2004/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ARITRA2004/Leetcode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ARITRA2004/Leetcode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ARITRA2004/Leetcode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 <!---LeetCode Topics End-->
