@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARITRA2004/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ARITRA2004/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ARITRA2004/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ARITRA2004/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ARITRA2004/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ARITRA2004/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ARITRA2004/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ARITRA2004/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ARITRA2004/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ARITRA2004/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARITRA2004/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ARITRA2004/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/ARITRA2004/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ARITRA2004/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ARITRA2004/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/ARITRA2004/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
