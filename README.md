@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ARITRA2004/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ARITRA2004/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ARITRA2004/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/ARITRA2004/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ARITRA2004/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ARITRA2004/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ARITRA2004/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/ARITRA2004/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ARITRA2004/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/ARITRA2004/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [2439-minimize-maximum-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2560-house-robber-iv](https://github.com/ARITRA2004/Leetcode/tree/main/2560-house-robber-iv/) | Medium |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2616-minimize-the-maximum-difference-of-pairs/) | Medium |
