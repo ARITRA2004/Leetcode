@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/ARITRA2004/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ARITRA2004/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0229-majority-element-ii](https://github.com/ARITRA2004/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0299-bulls-and-cows](https://github.com/ARITRA2004/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ARITRA2004/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/ARITRA2004/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/ARITRA2004/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0299-bulls-and-cows](https://github.com/ARITRA2004/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ARITRA2004/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0796-rotate-string](https://github.com/ARITRA2004/Leetcode/tree/main/0796-rotate-string/) | Easy |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/ARITRA2004/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0299-bulls-and-cows](https://github.com/ARITRA2004/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ARITRA2004/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ARITRA2004/Leetcode/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ARITRA2004/Leetcode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
