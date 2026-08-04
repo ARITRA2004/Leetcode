@@ -12,9 +12,6 @@ public:
 
         sort(diff.begin(),diff.end());
 
-        // for(int ele:diff) cout << ele << " ";
-        // cout << endl;
-
         for(int i=0;i<n;i++){
             if(diff[i] == 0) continue;
             if(diff[i] < additionalRocks && additionalRocks > 0){
@@ -31,9 +28,6 @@ public:
         }
 
         int count = 0;
-
-        for(int ele:diff) cout << ele << " ";
-        cout << endl;
 
         for(int ele:diff){
             if(ele == 0) count++;
