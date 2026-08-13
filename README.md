@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/ARITRA2004/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/ARITRA2004/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ARITRA2004/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ARITRA2004/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ARITRA2004/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ARITRA2004/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ARITRA2004/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ARITRA2004/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ARITRA2004/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ARITRA2004/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1306-jump-game-iii](https://github.com/ARITRA2004/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ARITRA2004/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ARITRA2004/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ARITRA2004/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
@@ -262,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ARITRA2004/Leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1306-jump-game-iii](https://github.com/ARITRA2004/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ARITRA2004/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ARITRA2004/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ARITRA2004/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -381,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ARITRA2004/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ARITRA2004/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ARITRA2004/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ARITRA2004/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
