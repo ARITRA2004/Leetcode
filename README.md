@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0554-brick-wall](https://github.com/ARITRA2004/Leetcode/tree/main/0554-brick-wall/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ARITRA2004/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0846-hand-of-straights](https://github.com/ARITRA2004/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0554-brick-wall](https://github.com/ARITRA2004/Leetcode/tree/main/0554-brick-wall/) | Medium |
 | [0846-hand-of-straights](https://github.com/ARITRA2004/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
