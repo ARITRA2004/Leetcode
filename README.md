@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0554-brick-wall](https://github.com/ARITRA2004/Leetcode/tree/main/0554-brick-wall/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ARITRA2004/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0648-replace-words](https://github.com/ARITRA2004/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0846-hand-of-straights](https://github.com/ARITRA2004/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0554-brick-wall](https://github.com/ARITRA2004/Leetcode/tree/main/0554-brick-wall/) | Medium |
+| [0648-replace-words](https://github.com/ARITRA2004/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0846-hand-of-straights](https://github.com/ARITRA2004/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/ARITRA2004/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ARITRA2004/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0648-replace-words](https://github.com/ARITRA2004/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0796-rotate-string](https://github.com/ARITRA2004/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0648-replace-words](https://github.com/ARITRA2004/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARITRA2004/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
