@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARITRA2004/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/ARITRA2004/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ARITRA2004/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/ARITRA2004/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0229-majority-element-ii](https://github.com/ARITRA2004/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0299-bulls-and-cows](https://github.com/ARITRA2004/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ARITRA2004/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/ARITRA2004/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/ARITRA2004/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/ARITRA2004/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0299-bulls-and-cows](https://github.com/ARITRA2004/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ARITRA2004/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/ARITRA2004/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0187-repeated-dna-sequences](https://github.com/ARITRA2004/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ARITRA2004/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ARITRA2004/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ARITRA2004/Leetcode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ARITRA2004/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/ARITRA2004/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/ARITRA2004/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -523,4 +527,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ARITRA2004/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ARITRA2004/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ARITRA2004/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ARITRA2004/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/ARITRA2004/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
