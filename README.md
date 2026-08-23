@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ARITRA2004/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0396-rotate-function](https://github.com/ARITRA2004/Leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/ARITRA2004/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ARITRA2004/Leetcode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0554-brick-wall](https://github.com/ARITRA2004/Leetcode/tree/main/0554-brick-wall/) | Medium |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0055-jump-game](https://github.com/ARITRA2004/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/ARITRA2004/Leetcode/tree/main/0134-gas-station/) | Medium |
+| [0455-assign-cookies](https://github.com/ARITRA2004/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0846-hand-of-straights](https://github.com/ARITRA2004/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ARITRA2004/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/ARITRA2004/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/ARITRA2004/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ARITRA2004/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0846-hand-of-straights](https://github.com/ARITRA2004/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
@@ -337,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ARITRA2004/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ARITRA2004/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ARITRA2004/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/ARITRA2004/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -545,4 +549,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ARITRA2004/Leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/ARITRA2004/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
