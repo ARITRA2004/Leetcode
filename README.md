@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ARITRA2004/Leetcode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ARITRA2004/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/ARITRA2004/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ARITRA2004/Leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2439-minimize-maximum-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/ARITRA2004/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ARITRA2004/Leetcode/tree/main/3346-maximum-frequency-of-an-element-after-performing-operations-i/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/ARITRA2004/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
