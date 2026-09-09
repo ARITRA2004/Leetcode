@@ -11,16 +11,7 @@ public:
             else if(n <= 1e12-1) count_commas = 6 + 3*n - 1e9 - 1e6 - 1e3 - 3;
             else if(n <=  1e15 - 1) count_commas = 10 + 4*n - 1e12 - 1e9 - 1e6 - 1e3-6;
         }
-        // if(n >= 1e6 && n <= 1e9-1){
-        //     count_commas += 2 + n - 1e6;
-        // }
-        // if(n >= 1e9 && n <= 1e12-1){
-        //     count_commas += 3 + n - 1e9;
-        // }
-        // if(n >= 1e12 && n <=  1e15 - 1){
-        //     count_commas += 4 + n - 1e12;
-        // }
-
+        
         if(n == 1e15) count_commas = 10 + 4*n - 1e12 - 1e9 - 1e6 - 1e3 - 6 + 1;
 
         cout << n << endl;
