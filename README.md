@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0648-replace-words](https://github.com/ARITRA2004/Leetcode/tree/main/0648-replace-words/) | Medium |
 | [0796-rotate-string](https://github.com/ARITRA2004/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0856-score-of-parentheses](https://github.com/ARITRA2004/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/ARITRA2004/Leetcode/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1002-find-common-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ARITRA2004/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/ARITRA2004/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0856-score-of-parentheses](https://github.com/ARITRA2004/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ARITRA2004/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ARITRA2004/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ARITRA2004/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -611,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ARITRA2004/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ARITRA2004/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0856-score-of-parentheses](https://github.com/ARITRA2004/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ARITRA2004/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ARITRA2004/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
