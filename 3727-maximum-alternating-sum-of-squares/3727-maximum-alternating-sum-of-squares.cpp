@@ -2,13 +2,6 @@ class Solution {
 public:
     long long maxAlternatingSum(vector<int>& nums) {
 
-        // 1 1 2 2 3 3
-        // 3 3 2 2 1 1
-
-        // 9 - 1 + 9 - 1
-
-        // 3 2 1
-        // 9 - 1 + 4
 
         for(int i = 0; i< nums.size();i++){
             if(nums[i] < 0){
@@ -17,9 +10,6 @@ public:
         }
 
         sort(nums.begin(),nums.end(),greater<int>());
-
-        // for(int ele:nums) cout << ele << " ";
-        // cout << endl;
 
         long long ans = 0;
 
