@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/ARITRA2004/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ARITRA2004/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARITRA2004/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ARITRA2004/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARITRA2004/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARITRA2004/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ARITRA2004/Leetcode/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ARITRA2004/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARITRA2004/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ARITRA2004/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ARITRA2004/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ARITRA2004/Leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -648,4 +650,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARITRA2004/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ARITRA2004/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
