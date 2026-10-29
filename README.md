@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3852-smallest-pair-with-different-frequencies](https://github.com/ARITRA2004/Leetcode/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ARITRA2004/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ARITRA2004/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ARITRA2004/Leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ARITRA2004/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ARITRA2004/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ARITRA2004/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ARITRA2004/Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ARITRA2004/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/ARITRA2004/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ARITRA2004/Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
