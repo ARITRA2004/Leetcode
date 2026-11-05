@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/ARITRA2004/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/ARITRA2004/Leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ARITRA2004/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ARITRA2004/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ARITRA2004/Leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ARITRA2004/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/ARITRA2004/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ARITRA2004/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ARITRA2004/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2439-minimize-maximum-of-array](https://github.com/ARITRA2004/Leetcode/tree/main/2439-minimize-maximum-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/ARITRA2004/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ARITRA2004/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ARITRA2004/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ARITRA2004/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ARITRA2004/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -410,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/ARITRA2004/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ARITRA2004/Leetcode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ARITRA2004/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ARITRA2004/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ARITRA2004/Leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ARITRA2004/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/ARITRA2004/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
