@@ -25,7 +25,7 @@ public:
                 if(p == g * l){
                     maxLen = max(maxLen,j-i+1);
                 }
-                if(p > 25200) break;
+                if(p > 36288900) break;
             }
             g = 1;
         }
